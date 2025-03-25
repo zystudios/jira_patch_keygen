@@ -15,3 +15,5 @@ Files:
 
 
 Blog post: ([https://sskaje.me/2014/04/jira-patched/](https://sskaje.me/2014/04/jira-patched/))
+
+BXS0-ZBVV-LHV8-0FZ8
